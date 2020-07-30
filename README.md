@@ -1,6 +1,35 @@
 # trip_flutter_ui
 
-A new Flutter project.
+
+**About the UI**:-<br>
+In this Ui we have different pages which are somewhat related th the video UI which titktok has.
+<br>
+When you open the app the different widgets which are there in the app appears in the app with some animations and you can check the animations in the video link given below.you have to swipe left for viewing the next page and in this page as well the details are loaded in the similar manner<br>
+This UI can be used by apps which want to showcase about particular things and display their images in background with their ratings and review count.
+___
+Things which are done in this app involve:-<br>
+* Stateless and stateful widgets
+* Animations
+* Page switching
+* Page view
+
+___
+Built in:-<br>
+* Flutter
+
+___
+Some snaps from the app<br>
+* Full video:- https://youtu.be/tfeC36MDdeo
+
+<br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596132092/readme%20images/flutter%20ui%204%20trip%20ui/Screenshot_from_2020-07-30_23-26-05_vweotv.png" height=350 width=250>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596132076/readme%20images/flutter%20ui%204%20trip%20ui/Screenshot_from_2020-07-30_23-26-53_urzca2.png" height=350 width=250>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596132068/readme%20images/flutter%20ui%204%20trip%20ui/Screenshot_from_2020-07-30_23-26-19_qtmzfz.png" height=350 width=250>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596132058/readme%20images/flutter%20ui%204%20trip%20ui/Screenshot_from_2020-07-30_23-26-35_y6blf9.png" height=350 width=250>
+
+* Original UI:-<br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1596132217/readme%20images/flutter%20ui%204%20trip%20ui/Screenshot_from_2020-07-30_19-40-12_gqkvh6.png" height=350>
+
 
 ## Getting Started
 
