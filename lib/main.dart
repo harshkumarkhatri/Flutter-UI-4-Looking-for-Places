@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
               textBaseline: TextBaseline.alphabetic,
               children: [
                 FadeingAnimation(
-                    2,
+                    2.0,
                     Text(
                       page.toString(),
                       style: TextStyle(
@@ -120,7 +120,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   FadeingAnimation(
-                    1,
+                    1.0,
                     Padding(
                       padding: EdgeInsets.fromLTRB(12, 0, 0, 0),
                       child: Text(
@@ -211,7 +211,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
                   FadeingAnimation(
-                    2,
+                    2.0,
                     Padding(
                       padding: EdgeInsets.only(right: 35, left: 12),
                       child: Text(
