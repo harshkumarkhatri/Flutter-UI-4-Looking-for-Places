@@ -1,5 +1,10 @@
 # trip_flutter_ui
-
+This is a UI which i made in flutter.<br>
+This UI is a part of a series of UI's i am building. Check other UI's clicking the linke below
+* [Flutter UI 1 Login UI](https://github.com/harshkumarkhatri/Flutter-UI-1-Login-UI)
+* [Flutter UI 2 Product Showcase UI](https://github.com/harshkumarkhatri/Product-Showcase-UI-Flutter)
+* [Flutter UI 3 Find Your Inspiration](https://github.com/harshkumarkhatri/Flutter-UI-3-Find-your-inspiration)
+* [Flutter UI 4 Looking for Places](https://github.com/harshkumarkhatri/Flutter-UI-4-Looking-for-Places)
 
 **About the UI**:-<br>
 In this Ui we have different pages which are somewhat related th the video UI which titktok has.
